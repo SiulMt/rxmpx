@@ -1,0 +1,178 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>LIMPIEZA RAMPER</title>
+  <meta name="description"
+      content="Somos una empresa 100% poblana con presencia en 19 estados de la República Mexicana, lo que nos posiciona como líderes nacionales en la gestión integral de servicios." href="">
+  <meta property="og:type" content="website">
+  <meta property="og:title" content="LIMPIEZA RAMPER">
+  <meta property="og:description"
+      content="Somos una empresa 100% poblana con presencia en 19 estados de la República Mexicana, lo que nos posiciona como líderes nacionales en la gestión integral de servicios.">
+  <meta property="og:image" content="images/RAMPER_LOGO.png">
+  <meta property="og:url" content="">
+  <link rel="stylesheet" href="css/custom.css" />
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
+  <link rel="icon" href="images/logo.png" type="image/png">
+  <!-- Google Tag Manager -->
+<script>
+(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+})(window,document,'script','dataLayer','GTM-5S4SRLRL');
+</script>
+<!-- End Google Tag Manager -->
+
+</head>
+<body>
+  <!-- Google Tag Manager (noscript) -->
+<noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-5S4SRLRL"
+height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+<!-- End Google Tag Manager (noscript) -->
+
+  <header>
+    <div class="logo">
+      <img src="images/RAMPER_LOGO.png" alt="Logo" />
+    </div>
+    <div class="menu-toggle" id="menu-toggle">
+      <span></span>
+      <span></span>
+      <span></span>
+    </div>
+      <nav id="nav">
+      <a href="index.php">INICIO</a>
+      <div class="submenu-container">
+        <a>SERVICIOS ▾</a>
+        <div class="submenu">
+          <a href="matenimiento_industrial.php">MANTENIMIENTO INDUSTRIAL</a>
+          <a href="limpieza_oficinas.php">LIMPIEZA DE OFICINAS</a>
+          <a href="limpieza_empresas.php">LIMPIEZA DE EMPRESAS</a>
+        </div>
+      </div>
+      <a href="quienes_somos.php">¿QUIÉNES SOMOS?</a>
+      <a href="blog.php">PUBLICACIONES</a>
+      <a href="index.php#Contacto">CONTÁCTANOS</a>
+      </nav>
+  </header>
+
+  <script>
+  // Botón de menú hamburguesa
+  const menuToggleBtn = document.querySelector('.menu-toggle');
+  const mainNav = document.querySelector('nav');
+  const submenuLinks = document.querySelectorAll('.submenu-container > a');
+
+  // Toggle del menú hamburguesa
+  menuToggleBtn.addEventListener('click', (e) => {
+    e.stopPropagation();
+    mainNav.classList.toggle('active');
+  });
+
+  // Submenús desplegables solo en pantallas pequeñas
+  submenuLinks.forEach(link => {
+    link.addEventListener('click', (e) => {
+      e.preventDefault();
+      e.stopPropagation();
+
+      if (window.innerWidth <= 768) {
+        const container = link.closest('.submenu-container');
+        container.classList.toggle('active');
+      }
+    });
+  });
+
+  // Cerrar menú si se hace clic fuera de él
+  document.addEventListener('click', (e) => {
+    if (!mainNav.contains(e.target) && !menuToggleBtn.contains(e.target)) {
+      mainNav.classList.remove('active');
+      document.querySelectorAll('.submenu-container.active').forEach(el => {
+        el.classList.remove('active');
+      });
+    }
+  });
+</script>
+
+
+  <div class="content">
+<main class="mantenimiento_industrial">
+<div class="titulo-degradado">
+  <h1>¿Qué es el mantenimiento industrial y el mantenimiento civil menor?</h1>
+</div>
+
+<div class="contenedor-dos-columnas">
+  <div class="columna-texto">
+    <p>
+    El mantenimiento civil menor es el conjunto de actividades técnicas y administrativas destinadas a mantener en óptimo funcionamiento de las infraestructuras de una empresa. Implica la gestión integral de activos, con el objetivo de optimizar su rendimiento, prolongar su vida útil y garantizar su seguridad operativa.
+    </p><br>
+    <p>Su objetivo es prevenir fallos, corregir averías y optimizar el rendimiento de los activos industriales.</p>
+  </div>
+
+  <div class="columna-imagen">
+    <img src="images/mantenimiento-industrial.jpg" alt="Mantenimiento Industrial">
+  </div>
+</div>
+<H2>IMPORTANCIA</H2>
+<div class="tarjetas-beneficios">
+  <div class="tarjeta">
+    <img src="images/aumentar.png" alt="Productividad">
+    <h3>Aumento de la productividad</h3>
+    <p>Las instalaciones funcionan de manera más eficiente, lo que se traduce en una mayor producción con menores tiempos de inactividad.</p>
+  </div>
+
+  <div class="tarjeta">
+    <img src="images/reduccion.png" alt="Reducción de Costos">
+    <h3>Reducción de Costos</h3>
+    <p>El mantenimiento regular reduce significativamente los costos asociados con reparaciones mayores y reemplazos prematuros de equipos.</p>
+  </div>
+
+  <div class="tarjeta">
+    <img src="images/seguridad.png" alt="Seguridad">
+    <h3>Seguridad</h3>
+    <p>El mantenimiento adecuado minimiza el riesgo de accidentes laborales y garantiza un entorno seguro.</p>
+  </div>
+
+  <div class="tarjeta">
+    <img src="images/durabilidad.png" alt="Durabilidad">
+    <h3>Durabilidad</h3>
+    <p>Un buen programa de mantenimiento extiende la vida útil de las instalaciones, protegiendo la inversión inicial.</p>
+  </div>
+</div>
+<section class="cta-cotizacion">
+  <h2>¿Quieres cotizar un servicio?</h2>
+  <p>Contáctanos y te responderemos a la brevedad.</p>
+  <a href="formulario.php" class="btn-cotizar">Solicitar cotización</a>
+</section>
+</main>
+</div> <!-- Fin del .content -->
+<footer>
+  <div class="footer-grid">
+    <div class="footer-item_repse">
+      <img class="footer-logo" src="images/REPSE.png" alt="REPSE"><img class="footer-logo_qr" src="images/REPSE_QR.jpeg" alt="REPSE QR">
+    </div>
+    <div class="footer-item">
+      <img class="footer-logo_2" src="images/STPS_logo_2012.png" alt="STPS">
+    </div>
+    <div class="footer-item">
+      <h4>SIGUENOS EN:</h4>
+      <div class="social-media">
+        <a href="https://www.linkedin.com/company/106073820/admin/page-posts/published/"><img src="images/linkedin.png" alt="LinkedIn">&nbsp;SERVICIOS INTEGRALES RAMPER</a>
+      </div>
+    </div>
+
+    <!-- Segunda fila, ocupando toda la fila -->
+    <div class="footer-item full-width">
+      <p><strong>Copyright © 2025 Limpieza Especializada y Mantenimiento RAMPER | Creado por: RAMPER</strong></p>
+    </div>
+  </div>
+</footer>
+
+<script>
+  const toggle = document.getElementById("menu-toggle");
+  const nav = document.getElementById("nav");
+  toggle.addEventListener("click", () => {
+    nav.classList.toggle("active");
+  });
+</script>
+</body>
+</html>
