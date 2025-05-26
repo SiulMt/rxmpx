@@ -1,0 +1,545 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<report>
+	<report-name>Informe de detalles de los recursos</report-name>
+	<date-range>5 de mayo de 2025 - 26 de mayo de 2025</date-range>
+	<table>
+		<row>
+			<cell>
+				<key>Estado del recurso</key>
+				<value>Habilitado</value>
+			</cell>
+			<cell>
+				<key>Recurso</key>
+				<value>Optimiza tu operación con limpieza profesional y puntual.</value>
+			</cell>
+			<cell>
+				<key>Nivel</key>
+				<value>Anuncio</value>
+			</cell>
+			<cell>
+				<key>Estado</key>
+				<value>Apto</value>
+			</cell>
+			<cell>
+				<key>Tipo de recurso</key>
+				<value>Descripción</value>
+			</cell>
+			<cell>
+				<key>Posición fijada</key>
+				<value>--</value>
+			</cell>
+			<cell>
+				<key>Impr.</key>
+				<value>2,094</value>
+			</cell>
+			<cell>
+				<key>Fuente del recurso</key>
+				<value>Anunciante</value>
+			</cell>
+			<cell>
+				<key>Última actualización</key>
+				<value>--</value>
+			</cell>
+		</row>
+		<row>
+			<cell>
+				<key>Estado del recurso</key>
+				<value>Habilitado</value>
+			</cell>
+			<cell>
+				<key>Recurso</key>
+				<value>Cotización Limpieza Industrial</value>
+			</cell>
+			<cell>
+				<key>Nivel</key>
+				<value>Anuncio</value>
+			</cell>
+			<cell>
+				<key>Estado</key>
+				<value>Apto</value>
+			</cell>
+			<cell>
+				<key>Tipo de recurso</key>
+				<value>Título</value>
+			</cell>
+			<cell>
+				<key>Posición fijada</key>
+				<value>--</value>
+			</cell>
+			<cell>
+				<key>Impr.</key>
+				<value>774</value>
+			</cell>
+			<cell>
+				<key>Fuente del recurso</key>
+				<value>Anunciante</value>
+			</cell>
+			<cell>
+				<key>Última actualización</key>
+				<value>--</value>
+			</cell>
+		</row>
+		<row>
+			<cell>
+				<key>Estado del recurso</key>
+				<value>Habilitado</value>
+			</cell>
+			<cell>
+				<key>Recurso</key>
+				<value>Programas personalizados y cumplimiento de normas.</value>
+			</cell>
+			<cell>
+				<key>Nivel</key>
+				<value>Anuncio</value>
+			</cell>
+			<cell>
+				<key>Estado</key>
+				<value>Apto</value>
+			</cell>
+			<cell>
+				<key>Tipo de recurso</key>
+				<value>Descripción</value>
+			</cell>
+			<cell>
+				<key>Posición fijada</key>
+				<value>--</value>
+			</cell>
+			<cell>
+				<key>Impr.</key>
+				<value>882</value>
+			</cell>
+			<cell>
+				<key>Fuente del recurso</key>
+				<value>Anunciante</value>
+			</cell>
+			<cell>
+				<key>Última actualización</key>
+				<value>--</value>
+			</cell>
+		</row>
+		<row>
+			<cell>
+				<key>Estado del recurso</key>
+				<value>Habilitado</value>
+			</cell>
+			<cell>
+				<key>Recurso</key>
+				<value>Servicios de Limpieza Empresas</value>
+			</cell>
+			<cell>
+				<key>Nivel</key>
+				<value>Anuncio</value>
+			</cell>
+			<cell>
+				<key>Estado</key>
+				<value>Apto</value>
+			</cell>
+			<cell>
+				<key>Tipo de recurso</key>
+				<value>Título</value>
+			</cell>
+			<cell>
+				<key>Posición fijada</key>
+				<value>--</value>
+			</cell>
+			<cell>
+				<key>Impr.</key>
+				<value>767</value>
+			</cell>
+			<cell>
+				<key>Fuente del recurso</key>
+				<value>Anunciante</value>
+			</cell>
+			<cell>
+				<key>Última actualización</key>
+				<value>--</value>
+			</cell>
+		</row>
+		<row>
+			<cell>
+				<key>Estado del recurso</key>
+				<value>Habilitado</value>
+			</cell>
+			<cell>
+				<key>Recurso</key>
+				<value>Limpieza Industrial</value>
+			</cell>
+			<cell>
+				<key>Nivel</key>
+				<value>Anuncio</value>
+			</cell>
+			<cell>
+				<key>Estado</key>
+				<value>Apto</value>
+			</cell>
+			<cell>
+				<key>Tipo de recurso</key>
+				<value>Título</value>
+			</cell>
+			<cell>
+				<key>Posición fijada</key>
+				<value>--</value>
+			</cell>
+			<cell>
+				<key>Impr.</key>
+				<value>523</value>
+			</cell>
+			<cell>
+				<key>Fuente del recurso</key>
+				<value>Anunciante</value>
+			</cell>
+			<cell>
+				<key>Última actualización</key>
+				<value>--</value>
+			</cell>
+		</row>
+		<row>
+			<cell>
+				<key>Estado del recurso</key>
+				<value>Habilitado</value>
+			</cell>
+			<cell>
+				<key>Recurso</key>
+				<value>Proveedor de Limpieza</value>
+			</cell>
+			<cell>
+				<key>Nivel</key>
+				<value>Anuncio</value>
+			</cell>
+			<cell>
+				<key>Estado</key>
+				<value>Apto</value>
+			</cell>
+			<cell>
+				<key>Tipo de recurso</key>
+				<value>Título</value>
+			</cell>
+			<cell>
+				<key>Posición fijada</key>
+				<value>--</value>
+			</cell>
+			<cell>
+				<key>Impr.</key>
+				<value>975</value>
+			</cell>
+			<cell>
+				<key>Fuente del recurso</key>
+				<value>Anunciante</value>
+			</cell>
+			<cell>
+				<key>Última actualización</key>
+				<value>--</value>
+			</cell>
+		</row>
+		<row>
+			<cell>
+				<key>Estado del recurso</key>
+				<value>Habilitado</value>
+			</cell>
+			<cell>
+				<key>Recurso</key>
+				<value>Contacto
+Nos ponemos a sus ordenes
+Limpieza Especializada
+https://www.limpiezaramper.com/index.php#Contacto</value>
+			</cell>
+			<cell>
+				<key>Nivel</key>
+				<value>Campaña</value>
+			</cell>
+			<cell>
+				<key>Estado</key>
+				<value>Apto</value>
+			</cell>
+			<cell>
+				<key>Tipo de recurso</key>
+				<value>Vínculo a sitio</value>
+			</cell>
+			<cell>
+				<key>Posición fijada</key>
+				<value>--</value>
+			</cell>
+			<cell>
+				<key>Impr.</key>
+				<value>599</value>
+			</cell>
+			<cell>
+				<key>Fuente del recurso</key>
+				<value>Anunciante</value>
+			</cell>
+			<cell>
+				<key>Última actualización</key>
+				<value>5 may 2025, 5:50 p.m.</value>
+			</cell>
+		</row>
+		<row>
+			<cell>
+				<key>Estado del recurso</key>
+				<value>Habilitado</value>
+			</cell>
+			<cell>
+				<key>Recurso</key>
+				<value>Solicita Cotización Hoy Mismo</value>
+			</cell>
+			<cell>
+				<key>Nivel</key>
+				<value>Anuncio</value>
+			</cell>
+			<cell>
+				<key>Estado</key>
+				<value>Apto</value>
+			</cell>
+			<cell>
+				<key>Tipo de recurso</key>
+				<value>Título</value>
+			</cell>
+			<cell>
+				<key>Posición fijada</key>
+				<value>--</value>
+			</cell>
+			<cell>
+				<key>Impr.</key>
+				<value>612</value>
+			</cell>
+			<cell>
+				<key>Fuente del recurso</key>
+				<value>Anunciante</value>
+			</cell>
+			<cell>
+				<key>Última actualización</key>
+				<value>--</value>
+			</cell>
+		</row>
+		<row>
+			<cell>
+				<key>Estado del recurso</key>
+				<value>Habilitado</value>
+			</cell>
+			<cell>
+				<key>Recurso</key>
+				<value>Contamos con protocolos para espacios industriales</value>
+			</cell>
+			<cell>
+				<key>Nivel</key>
+				<value>Anuncio</value>
+			</cell>
+			<cell>
+				<key>Estado</key>
+				<value>Apto</value>
+			</cell>
+			<cell>
+				<key>Tipo de recurso</key>
+				<value>Descripción</value>
+			</cell>
+			<cell>
+				<key>Posición fijada</key>
+				<value>--</value>
+			</cell>
+			<cell>
+				<key>Impr.</key>
+				<value>0</value>
+			</cell>
+			<cell>
+				<key>Fuente del recurso</key>
+				<value>Anunciante</value>
+			</cell>
+			<cell>
+				<key>Última actualización</key>
+				<value>--</value>
+			</cell>
+		</row>
+		<row>
+			<cell>
+				<key>Estado del recurso</key>
+				<value>Habilitado</value>
+			</cell>
+			<cell>
+				<key>Recurso</key>
+				<value>Nosotros
+Somos Ramper
+Expertos en Limpieza Industrial
+https://www.limpiezaramper.com/quienes_somos.php</value>
+			</cell>
+			<cell>
+				<key>Nivel</key>
+				<value>Campaña</value>
+			</cell>
+			<cell>
+				<key>Estado</key>
+				<value>Apto</value>
+			</cell>
+			<cell>
+				<key>Tipo de recurso</key>
+				<value>Vínculo a sitio</value>
+			</cell>
+			<cell>
+				<key>Posición fijada</key>
+				<value>--</value>
+			</cell>
+			<cell>
+				<key>Impr.</key>
+				<value>574</value>
+			</cell>
+			<cell>
+				<key>Fuente del recurso</key>
+				<value>Anunciante</value>
+			</cell>
+			<cell>
+				<key>Última actualización</key>
+				<value>5 may 2025, 5:50 p.m.</value>
+			</cell>
+		</row>
+		<row>
+			<cell>
+				<key>Estado del recurso</key>
+				<value>Habilitado</value>
+			</cell>
+			<cell>
+				<key>Recurso</key>
+				<value>Servicios Limpieza Industrial</value>
+			</cell>
+			<cell>
+				<key>Nivel</key>
+				<value>Anuncio</value>
+			</cell>
+			<cell>
+				<key>Estado</key>
+				<value>Apto</value>
+			</cell>
+			<cell>
+				<key>Tipo de recurso</key>
+				<value>Título</value>
+			</cell>
+			<cell>
+				<key>Posición fijada</key>
+				<value>--</value>
+			</cell>
+			<cell>
+				<key>Impr.</key>
+				<value>954</value>
+			</cell>
+			<cell>
+				<key>Fuente del recurso</key>
+				<value>Anunciante</value>
+			</cell>
+			<cell>
+				<key>Última actualización</key>
+				<value>--</value>
+			</cell>
+		</row>
+		<row>
+			<cell>
+				<key>Estado del recurso</key>
+				<value>Habilitado</value>
+			</cell>
+			<cell>
+				<key>Recurso</key>
+				<value>Limpieza y Mantenimiento</value>
+			</cell>
+			<cell>
+				<key>Nivel</key>
+				<value>Anuncio</value>
+			</cell>
+			<cell>
+				<key>Estado</key>
+				<value>Apto</value>
+			</cell>
+			<cell>
+				<key>Tipo de recurso</key>
+				<value>Título</value>
+			</cell>
+			<cell>
+				<key>Posición fijada</key>
+				<value>--</value>
+			</cell>
+			<cell>
+				<key>Impr.</key>
+				<value>1,067</value>
+			</cell>
+			<cell>
+				<key>Fuente del recurso</key>
+				<value>Anunciante</value>
+			</cell>
+			<cell>
+				<key>Última actualización</key>
+				<value>--</value>
+			</cell>
+		</row>
+		<row>
+			<cell>
+				<key>Estado del recurso</key>
+				<value>Habilitado</value>
+			</cell>
+			<cell>
+				<key>Recurso</key>
+				<value>Especialistas en limpieza industrial.</value>
+			</cell>
+			<cell>
+				<key>Nivel</key>
+				<value>Anuncio</value>
+			</cell>
+			<cell>
+				<key>Estado</key>
+				<value>Apto</value>
+			</cell>
+			<cell>
+				<key>Tipo de recurso</key>
+				<value>Descripción</value>
+			</cell>
+			<cell>
+				<key>Posición fijada</key>
+				<value>--</value>
+			</cell>
+			<cell>
+				<key>Impr.</key>
+				<value>0</value>
+			</cell>
+			<cell>
+				<key>Fuente del recurso</key>
+				<value>Anunciante</value>
+			</cell>
+			<cell>
+				<key>Última actualización</key>
+				<value>--</value>
+			</cell>
+		</row>
+		<row>
+			<cell>
+				<key>Estado del recurso</key>
+				<value>Habilitado</value>
+			</cell>
+			<cell>
+				<key>Recurso</key>
+				<value>Ramper Servicios Integrales</value>
+			</cell>
+			<cell>
+				<key>Nivel</key>
+				<value>Anuncio</value>
+			</cell>
+			<cell>
+				<key>Estado</key>
+				<value>Apto</value>
+			</cell>
+			<cell>
+				<key>Tipo de recurso</key>
+				<value>Título</value>
+			</cell>
+			<cell>
+				<key>Posición fijada</key>
+				<value>--</value>
+			</cell>
+			<cell>
+				<key>Impr.</key>
+				<value>278</value>
+			</cell>
+			<cell>
+				<key>Fuente del recurso</key>
+				<value>Anunciante</value>
+			</cell>
+			<cell>
+				<key>Última actualización</key>
+				<value>--</value>
+			</cell>
+		</row>
+	</table>
+</report>
